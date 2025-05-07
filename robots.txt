@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahmed2228.github.io/seventh-year-project/sitemap.xml
