@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://ahmed2228.github.io/global-news/sitemap.xml
