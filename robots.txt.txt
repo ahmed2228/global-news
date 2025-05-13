@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://ahmed2228.github.io/global-news/sitemap.xml
+https://github.com/ahmed2228/global-news/commit/4dcdc197e5da3f211c5278b63698b50521c843fe
